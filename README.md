@@ -7,11 +7,13 @@ The programs cover basics of Java, object-oriented programming (OOP), and advanc
 
 ## 📂 Folder Structure  
 
-- **Week-1/** → Introduction to Java (Hello World, simple I/O)  
-- **Week-2/** → Loops & Conditional Statements (Prime, Factorial)  
-- **Week-3/** → Classes & Objects (Student, Employee)  
-- **Week-4/** → Inheritance & Polymorphism  
-- *(and so on…)*  
+- **Week-1/** → Intro:Resources for learning and Practicing Java Programming
+- **Week-2/** → Software requirements for HTML/Javascript PHP Programs
+- **Week-3/** → Basic Problems In Java
+- **Week-4/** → Problems Based On If Statement/Looping In Java
+- **Week-5/** → Problems Based On Array In Java
+- **Week-6/** → Problems Based On If Statement/Looping/Array In Java
+    
 
 ---
 
