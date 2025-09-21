@@ -13,6 +13,7 @@ The programs cover basics of Java, object-oriented programming (OOP), and advanc
 - **Week-4/** → Problems Based On If Statement/Looping In Java
 - **Week-5/** → Problems Based On Array In Java
 - **Week-6/** → Problems Based On If Statement/Looping/Array In Java
+- **Week-7/** → Problems Based On If Statement/Looping/Array/Strings In Java
     
 
 ---
