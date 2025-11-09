@@ -7,18 +7,20 @@ The programs cover basics of Java, object-oriented programming (OOP), and advanc
 
 ## 📂 Folder Structure  
 
-- **Week-1/** → Intro:Resources for learning and Practicing Java Programming
-- **Week-2/** → Software requirements for HTML/Javascript PHP Programs
-- **Week-3/** → Basic Problems In Java
-- **Week-4/** → Problems Based On If Statement/Looping In Java
-- **Week-5/** → Problems Based On Array In Java
-- **Week-6/** → Problems Based On If Statement/Looping/Array In Java
-- **Week-7/** → Problems Based On If Statement/Looping/Array/Strings In Java
-- **Week-8/** → Problems Based On Object/Class/Constructor In Java
-- **Week-9/** → Problems Based On Inheritance/Static Methods/Abstract Class In Java
+- **Week-1/**  → Intro:Resources for learning and Practicing Java Programming
+- **Week-2/**  → Software requirements for HTML/Javascript PHP Programs
+- **Week-3/**  → Basic Problems In Java
+- **Week-4/**  → Problems Based On If Statement/Looping In Java
+- **Week-5/**  → Problems Based On Array In Java
+- **Week-6/**  → Problems Based On If Statement/Looping/Array In Java
+- **Week-7/**  → Problems Based On If Statement/Looping/Array/Strings In Java
+- **Week-8/**  → Problems Based On Object/Class/Constructor In Java
+- **Week-9/**  → Problems Based On Inheritance/Static Methods/Abstract Class In Java
 - **Week-10/** → Problems Based On Nested Class/Static Polymorphism/Dynamic Polymorphism In Java
 - **Week-11/** → Problems Based On Interface In Java
 - **Week-12/** → Problems Based On Exception Handling In Java
+- **Week-13/** → Problems Based On File Handling In Java
+- **Week-14/** → Problems Based On JDBC API In Java
     
 
 ---
